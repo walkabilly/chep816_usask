@@ -58,8 +58,96 @@ Health Science E-Wing, Third Floor, Room 3312
 | 13   | November 29  | The Future                                 | Letter to the Editor – Part 2   |
 | 14   | December 6   |                                            | Final Paper – Part 2            |
 
+## Attendance and Participation
+Attendance and participation and reading ahead are critical to this course. There will a lot of time for discussion and working on assignments allocated in this course but reading ahead is a critical aspect of the learning process. 
+
+## Assignment Grading Scheme
+
+| Assignment                            | Percent | Due Date         |
+|---------------------------------------|---------|------------------|
+| Letter to the Editor – Part 1         | 10%     | 6 October, 2022  |
+| Letter to the Editor – Peer Review    | 5%      | 13 October, 2022 |
+| Letter to the Editor – Part 2         | 10%     | 22 November, 2022|
+| Replication                           | 15%     | 15 November, 2022|
+| Term Paper – Part 1                   | 10%     | 27 October, 2022 |
+| Term Paper – Peer Review              | 10%     | 10 November, 2022|
+| Term Paper – Part 2                   | 20%     | 6 December, 2022 |
+| Journal Club                          | 10%     | Ongoing          |
+| Self-Evaluation and Reflection        | 10%     | 6 December, 2023 |
 
 
+Certainly! Here is the converted text in Markdown format:
+
+# Evaluation Components
+
+## Letter to the Editor – Part 1
+**Type:** Written Document  
+**Description:** Submit a first draft of a Letter to the Editor based on a recent population health intervention based article published in a journal in your field. or in press published in the Canadian Journal of Public Health. The letter should follow the guidelines for the journal [here](#). The description of the Letter to the Editor section is below: 
+
+A Letter to the Editor is a letter sent to the journal about issues of concern from its readers. Letters are often, but not necessarily, reviews of a published CJPH paper, complimentary or critical of some aspect of the original paper. The authors of the original paper are invited to respond to the letter and both items get published together in the next available issue. Letters and responses are short.  
+- Maximum word length: 500 words  
+- No abstract  
+- Maximum number of references: 10
+
+## Letter to the Editor – Peer Review
+**Type:** Written Document  
+**Description:** Submit a peer review of a letter to the editor. There are a number of guides out there and examples will be provided. The [PLOS guide](https://plos.org/resource/how-to-write-a-peer-review/) is a good start.
+
+## Letter to the Editor – Part 2
+**Type:** Written Document  
+**Description:** Submit a final draft of a Letter to the Editor based on an article in the syllabus or a recent article published in the Canadian Journal of Public Health. The letter should follow the guidelines outlined in Assignment 1. You will be evaluated on aspects of responses to the feedback from the supervisor and your peers. The letter can be submitted to CJPH once the final version is complete with approval of your supervisor.
+
+## Replication
+**Type:** Data analysis  
+**Description:** Replicate the data analysis from one of the following PHIR papers that use open-source data and code. You can use any statistical software you would like. You must replicate the key tables from one paper.
+- Fuller D, Sahlqvist S, Cummins S, Ogilvie D. The impact of public transportation strikes on use of a bicycle share program in London: Interrupted time series design. Preventive Medicine. 2011;54(1):74–76. [DOI](https://doi.org/10.1016/j.ypmed.2011.09.021)
+  - Replicate Table 1
+  - Data: [Download (Filename: boris_data.txt)](#)
+- Sam Harper, Erin C Strumpf, and Jay S Kaufman. Do Medical Marijuana Laws Increase Marijuana Use? Replication Study and Extension. Annals of Epidemiology. 2012;22(4):207–212. [DOI](https://doi.org/10.1016/j.annepidem.2011.12.002)
+  - Replicate Table 1 and Table 2
+  - Data: [Download (Filename: mml_data.csv)](#)
+
+You must submit the code you used to get the tables and a clean version of the tables.
+
+## Term Paper – Part 1
+**Type:** Protocol Paper  
+**Description:** Based on a topic related to your research interest, design a population health intervention research study. Demonstrate that you understand the principles of PHIR by including theory, methods, inequities, ethics, and potential policy impacts in your proposed study. This paper should be in the format of a research protocol paper to be published in BMJ Open or BMC Public Health.
+
+### Part 1 - General Guidelines
+- 1500 words
+- 250 word structured abstract
+- 20 references (AMA style)
+
+#### Examples
+- [Mah CL, Foster K, Jago E, et al. Study protocol for CELLAR (COVID-related Eating Limitations and Latent dietary effects in the Atlantic Region): population-based observational study to monitor dietary intakes and purchasing during COVID-19 in four Atlantic Canadian provinces. BMJ Open 2022;12:e061660. DOI](https://doi.org/10.1136/bmjopen-2022-061660)
+- [Kestens, Y., Winters, M., Fuller, D. et al. INTERACT: A comprehensive approach to assess urban form interventions through natural experiments. BMC Public Health 19, 51 (2019). DOI](https://doi.org/10.1186/s12889-018-6339-z)
+
+## Term Paper – Peer Review
+**Type:** Written Document  
+**Description:** Submit a peer review of a student's term paper draft. There are a number of guides out there and examples will be provided. The [PLOS guide](https://plos.org/resource/how-to-write-a-peer-review/) is a good start.
+
+## Term Paper – Part 2
+**Type:** Protocol Paper  
+**Description:** Refine and finalize your protocol paper for submission to the journal.
+
+### Part 2 - General Guidelines
+- 3000 words
+- 250 word structured abstract
+- 30 references (AMA style)
+
+## Journal Club
+**Type:** Presentation  
+**Description:** Lead the discussion on one of the applied articles related to the topics in the reading list. Discuss, in class, the summary of the paper and how it relates to the definition of PHIR, the theories used, and the appropriateness of the methods applied. You will be asked to lead a group discussion on the paper. You can use the Waterloo Guide to help you prepare.
+
+## Self-Evaluation
+**Type:** Written report  
+**Description:** Complete the student self-evaluation form.
+
+# Submitting Assignments 
+All assignments should be submitted to the appropriate place in Canvas. All assignments are due at 5pm (CST) on the due date. Please don’t stay up until midnight to get the work done. Remember there are no late penalties so just take an extra day if you need and get some sleep. 
+
+# Late and Missing Assignments
+There is no penalty for late assignments. However, because many assignments have two or more parts, it is critical to the first assignment of the sections in around the due date. Missing assignments that are not submitted by the end of the course will receive a grade of zero. 
 
 # University of Saskatchewan Grading System (for graduate courses)
 
