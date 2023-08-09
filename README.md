@@ -20,9 +20,25 @@ The purpose of the course is to review definitions, theories, methods and underl
 
 I acknowledge our shared connection to the land and recognize that Indigenous and Métis peoples on Treaty 6 Territory and all Indigenous peoples have been and continue to be stewards for social justice, equity, and land-based education. In the spirit of reconciliation may we all strive to learn and support the work of Indigenous communities as allies and return their land.
 
+## Use of Artificial Intelligence in Education
+
+There is no general policy on AI tools at the University of Saskatchewan (August 9, 2023). The University has developed high level guidance basec on the [European Network for Academic Integrity (ENAI) recommendations](https://edintegrity.biomedcentral.com/articles/10.1007/s40979-023-00133-4). They are summarised below
+
+1. Acknowledge AI tools: “All persons, sources, and tools that influence the ideas or generate the content should be properly acknowledged” (p. 3). Acknowledgement may be done in different ways, according to context and discipline, and should include the input to the tool.
+2. Do not list AI tools as authors: Authors must take responsibility and be accountable for content and an AI tool cannot do so.
+3. Recognize limits and biases of AI tools: Inaccuracies, errors, and bias are reproduced in AI tools in part because of the human produced materials used for training.
+
+### AI Rules for this course
+
+__In general, my opinion is that you should exploring these tools, what they can do, and how you can integrate them into your work.__ These tools are great for editing, formatting, and generating ideas. Not sure where to start, [here is a list of tools](https://www.futurepedia.io/). It's critial that when you use these tools you are very aware of bias and that you intervene to correct the text.
+
+1. Can may use AI tools for any or all parts of the work.
+    - If you do you must cite your work (as above).
+    - If you do you must include a 500 word reflective essay about the experience as part of your self-evaluation.
+
 ## COVID-19
 
-The Department of Community Health and Epidemiology strives to be a leader in COVID-19 prevention. This is both an individual and collective challenge. I will be wearing a mask for teaching a strongly encourage other students and guests to wear a mask for in-person sessions. If you feel sick or unwell, please do not come to class. Every accommodation will be made to support your learning if you are not able to come to class in person. If the University of Saskatchewan policy regarding COVID-19 changes during the course, I will update you as soon as possible and we will adapt the course as needed.
+The Department of Community Health and Epidemiology strives to be a leader in COVID-19 prevention. This is both an individual and collective challenge. If you feel sick or unwell, please do not come to class. Every accommodation will be made to support your learning if you are not able to come to class in person. If the University of Saskatchewan policy regarding COVID-19 changes during the course, I will update you as soon as possible and we will adapt the course as needed.
 
 ## Contact Information
 
