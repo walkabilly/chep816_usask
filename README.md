@@ -35,6 +35,8 @@ __In general, my opinion is that you should exploring these tools, what they can
 1. Can may use AI tools for any or all parts of the work.
     - If you do you must cite your work (as above).
     - If you do you must include a 500 word reflective essay about the experience as part of your self-evaluation.
+2. Be very careful with reference. Many of these tools just make up random references.
+3. I will __not__ use tools like [GPTZero](https://gptzero.me/faq#i-m-an-educator-who-has-f) to detect whether you have used AI tools or not. We are making a agreement to be honest with each other here. This is small class. We have that luxury. 
 
 ## COVID-19
 
@@ -211,3 +213,59 @@ An unacceptable performance.
 5. Name tools and methods for knowledge mobilization about population health intervention in order to bridge research and practice.
 6. Have succeeded in applying key principles of population health intervention to their own research project. (optional)
 
+# Access and Equity Services (AES)
+Access and Equity Services (AES) is available to provide support to students who require accommodations due to disability, family status, and religious observances.
+
+Students who have disabilities (learning, medical, physical, or mental health) are strongly encouraged to register with Access and Equity Services (AES) if they have not already done so. Students who suspect they may have disabilities should contact AES for advice and referrals at any time. Those students who are registered with AES with mental health disabilities and who anticipate that they may have responses to certain course materials or topics, should discuss course content with their instructors prior to course add / drop dates.
+
+Students who require accommodations for pregnancy or substantial parental/family duties should contact AES to discuss their situations and potentially register with that office.
+
+Students who require accommodations due to religious practices that prohibit the writing of exams on religious holidays should contact AES to self-declare and determine which accommodations are appropriate. In general, students who are unable to write an exam due to a religious conflict do not register with AES but instead submit an exam conflict form through their PAWS account to arrange accommodations.
+
+Any student registered with AES, as well as those who require accommodations on religious grounds, may request alternative arrangements for mid-term and final examinations by submitting a request to AES by the stated deadliness. Instructors shall provide the examinations for students who are being accommodated by the deadlines established by AES.
+
+For more information or advice, visit Access and Equity Services, or contact AES at 306-966-7273 (Voice/TTY 1-306-966-7276) or email aes@usask.ca.
+
+# Academic Integrity
+
+The University of Saskatchewan is committed to the highest standards of academic integrity and honesty. Students are expected to be familiar with these standards regarding academic honesty and to uphold the policies of the University in this respect. Students are particularly urged to familiarize themselves with the provisions of the Student Conduct & Appeals section of the University Secretary Website and avoid any behavior that could potentially result in suspicions of cheating, plagiarism, misrepresentation of facts and/or participation in an offence. Academic dishonesty is a serious offence and can result in suspension or expulsion from the University.
+
+All students should read and be familiar with the [Regulations on Academic Student Misconduct](https://governance.usask.ca/student-conduct-appeals/academic-misconduct.php - StudentAcademicMisconductRegulations) as well as the Standard of Student Conduct in Non-Academic Matters and Procedures for Resolution of Complaints and Appeals.
+
+For more information on what academic integrity means for students see the Academic Integrity section of the University Library Website.
+
+You are encouraged to complete the Academic Integrity Tutorial to understand the fundamental values of academic integrity and how to be a responsible scholar and member of the USask community. There are also valuable resources on the Integrity Matters website.
+
+# Copyright
+Course materials are provided to you based on your registration in a class, and anything created by your professors and instructors is their intellectual property and cannot be shared without written permission. If materials are designated as open education resources (with a creative commons license) you can share and/or use in alignment with the CC license. This includes exams, PowerPoint/PDF slides and other course notes. Additionally, other copyright-protected materials created by textbook publishers and authors may be provided to you based on license terms and educational exceptions in the [Canadian Copyright Act](http://laws-lois.justice.gc.ca/eng/acts/C-42/index.html).
+
+Before you copy or distribute others' copyright-protected materials, please ensure that your use of the materials is covered under the University's "Use of Materials Protected By Copyright" Policy available at [this link](https://policies.usask.ca/policies/operations-and-general-administration/copyright.php). For example, posting others' copyright-protected materials on the open internet is not permitted by this policy or by the university Copyright Guidelines (available at [this link](https://library.usask.ca/copyright/general-information/copyright-guidelines.php)) and requires permission from the copyright holder.
+
+For more information about copyright, please visit [this link](https://library.usask.ca/copyright/) where there is information for students available at [this link](https://library.usask.ca/copyright/students/your-course-materials.php), or contact the University's Copyright Coordinator at copyright.coordinator@usask.ca or 306-966-8817.
+
+# Student Supports
+
+## Academic Support for Students
+Visit the Learning Hub to learn how the University Library supports undergraduate and graduate students. Attend online or in-person workshops, review online resources or book 1-1 appointments for help with:
+- First year experience
+- Research
+- Study strategies and skills
+- Writing
+- Math and Statistics
+
+Enrolled in an online course? Explore these resources: Online Learning Readiness Tutorial and Netiquette Guide.
+
+## Teaching, Learning and Student Experience
+Teaching, Learning and Student Experience (TLSE) provides developmental and support services and programs to students and the university community. For more information, see the students' [website](http://students.usask.ca).
+
+## Financial Support
+Any student who faces unexpected challenges securing their food or housing and believes this may affect their performance in the course is urged to contact [Student Central](https://students.usask.ca/student-central.php).
+
+## Aboriginal Students' Centre
+The Aboriginal Students' Centre (ASC) is dedicated to supporting Indigenous student academic and personal success. The ASC offers personal, social, cultural and some academic supports to Métis, First Nations, and Inuit students. The ASC is in the Gordon Oakes Red Bear Students Centre, which is an intercultural gathering space that brings Indigenous and non-Indigenous students together to learn from, with and about one another in a respectful, inclusive, and safe environment. Visit [this link](https://students.usask.ca/indigenous/index.php) or students are encouraged to visit the ASC's [Facebook page](https://www.facebook.com/aboriginalstudentscentre/).
+
+## International Student and Study Abroad Centre
+The International Student and Study Abroad Centre (ISSAC) supports student success and facilitates international education experiences at USask and abroad. ISSAC is here to assist all international undergraduate, graduate, exchange, and English as a Second Language students in their transition to the University of Saskatchewan and to life in Canada. ISSAC offers advising and support on matters that affect international students and their families and on matters related to studying abroad as University of Saskatchewan students. Visit [this link](https://students.usask.ca/international/issac.php) for more information.
+
+# Course Contributors
+Dr. Anne Leis and Dr. Daniel Fuller developed this course together in 2013.
