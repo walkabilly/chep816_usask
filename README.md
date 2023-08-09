@@ -2,15 +2,15 @@
 
 # Course Syllabus
 
-## Title
-- **Code:** CHEP 816
-- **Term:** 2022 Fall
-- **Credits:** 3
-- **Delivery:** In person
-- **Location:** TBA
-- **Start Date:** September 6, 2022
-- **Time:** 1:30 to 4:20pm
-- **Course Site:**
+|           | |
+|--------------|-----------------------|
+| **Code**     | CHEP 816              |
+| **Term**     | 2022 Fall             |
+| **Credits**  | 3                     |
+| **Delivery** | In person             |
+| **Location** | TBA                   |
+| **Start Date** | September 6, 2022    |
+| **Time**     | 1:30 to 4:20pm        |
 
 ## Course Description
 
