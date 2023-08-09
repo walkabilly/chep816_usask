@@ -113,8 +113,8 @@ A Letter to the Editor is a letter sent to the journal about issues of concern f
 **Description:** Submit a final draft of a Letter to the Editor based on an article in the syllabus or a recent article published in the Canadian Journal of Public Health. The letter should follow the guidelines outlined in Assignment 1. You will be evaluated on aspects of responses to the feedback from the supervisor and your peers. The letter can be submitted to CJPH once the final version is complete with approval of your supervisor.
 
 ## Intervention Design
-**Type:** Written work
-**Description:** In this assignment you will design an intervention. The intervention will include designing how the intervention will roll out, a logic model, process and outcome targets, equity considerations, and population health considerations. 
+**Type:** Written work  
+**Description:** In this assignment you will design an intervention. The intervention will include designing how the intervention will roll out, a logic model, process and outcome targets, equity considerations, and population health considerations.   
 
 ## Term Paper – Part 1
 **Type:** Protocol Paper  
