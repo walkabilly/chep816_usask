@@ -5,11 +5,11 @@
 |           | |
 |--------------|-----------------------|
 | **Code**     | CHEP 816              |
-| **Term**     | 2022 Fall             |
+| **Term**     | 2023 Fall             |
 | **Credits**  | 3                     |
 | **Delivery** | In person             |
-| **Location** | TBA                   |
-| **Start Date** | September 6, 2022    |
+| **Location** | B443 HLTH                   |
+| **Start Date** | September 11, 2023    |
 | **Time**     | 1:30 to 4:20pm        |
 
 ## Course Description
@@ -61,20 +61,20 @@ Health Science E-Wing, Third Floor, Room 3312
 
 | Week | Date         | Topics / Module                            | Assignment Due                  |
 |------|--------------|--------------------------------------------|---------------------------------|
-| 1    | September 6  | Introduction to PHIR                       |                                 |
-| 2    | September 13 | History and Context of PHIR                |                                 |
-| 3    | September 20 | Concepts/Theories/Models                   |                                 |
-| 4    | September 27 | Complexity                                 |                                 |
-| 5    | October 4    | Anatomy of a Letter to the Editor          |                                 |
-| 6    | October 11   | Methods – Part 1                           | Letter to the Editor – Part 1   |
-| 7    | October 18   | Methods – Part 2                           | Letter to the Editor – Peer Review |
-| 8    | October 25   | Inequities                                 | Term Paper – Part 1             |
-| 9    | November 1   | Anatomy of a Protocol Paper                |                                 |
-| 10   | November 8   | Ethics                                     |                                 |
-| 11   | November 15  | Reading Week                               | Term Paper – Peer Review        |
-| 12   | November 22  | Policy Impacts                             | Replication                     |
-| 13   | November 29  | The Future                                 | Letter to the Editor – Part 2   |
-| 14   | December 6   |                                            | Final Paper – Part 2            |
+| 1    | September 11  | Introduction to PHIR                       |                                 |
+| 2    | September 18 | History and Context of PHIR                |                                 |
+| 3    | September 25 | Concepts/Theories/Models                   |                                 |
+| 4    | October 2 | Complexity                                 |                                 |
+| 5    | October 9    | Anatomy of a Letter to the Editor          |                                 |
+| 6    | October 16   | Methods – Part 1                           | Letter to the Editor – Part 1   |
+| 7    | October 23   | Methods – Part 2                           | Letter to the Editor – Peer Review |
+| 8    | October 30   | Inequities                                 | Term Paper – Part 1             |
+| 9    | November 6   | Anatomy of a Protocol Paper                |                                 |
+| 10   | November 13   | Ethics                                     |                                 |
+| 11   | November 20  | Reading Week                               | Term Paper – Peer Review        |
+| 12   | November 27  | Policy Impacts                             | Replication                     |
+| 13   | December 4  | The Future                                 | Letter to the Editor – Part 2   |
+| 14   | December 11   |                                            | Final Paper – Part 2            |
 
 ## Attendance and Participation
 Attendance and participation and reading ahead are critical to this course. There will a lot of time for discussion and working on assignments allocated in this course but reading ahead is a critical aspect of the learning process. 
@@ -86,15 +86,12 @@ Attendance and participation and reading ahead are critical to this course. Ther
 | Letter to the Editor – Part 1         | 10%     | 6 October, 2022  |
 | Letter to the Editor – Peer Review    | 5%      | 13 October, 2022 |
 | Letter to the Editor – Part 2         | 10%     | 22 November, 2022|
-| Replication                           | 15%     | 15 November, 2022|
+| Intervention Design                   | 15%     | 15 November, 2022|
 | Term Paper – Part 1                   | 10%     | 27 October, 2022 |
 | Term Paper – Peer Review              | 10%     | 10 November, 2022|
 | Term Paper – Part 2                   | 20%     | 6 December, 2022 |
 | Journal Club                          | 10%     | Ongoing          |
 | Self-Evaluation and Reflection        | 10%     | 6 December, 2023 |
-
-
-Certainly! Here is the converted text in Markdown format:
 
 # Evaluation Components
 
@@ -115,17 +112,9 @@ A Letter to the Editor is a letter sent to the journal about issues of concern f
 **Type:** Written Document  
 **Description:** Submit a final draft of a Letter to the Editor based on an article in the syllabus or a recent article published in the Canadian Journal of Public Health. The letter should follow the guidelines outlined in Assignment 1. You will be evaluated on aspects of responses to the feedback from the supervisor and your peers. The letter can be submitted to CJPH once the final version is complete with approval of your supervisor.
 
-## Replication
-**Type:** Data analysis  
-**Description:** Replicate the data analysis from one of the following PHIR papers that use open-source data and code. You can use any statistical software you would like. You must replicate the key tables from one paper.
-- Fuller D, Sahlqvist S, Cummins S, Ogilvie D. The impact of public transportation strikes on use of a bicycle share program in London: Interrupted time series design. Preventive Medicine. 2011;54(1):74–76. [DOI](https://doi.org/10.1016/j.ypmed.2011.09.021)
-  - Replicate Table 1
-  - Data: [Download (Filename: boris_data.txt)](#)
-- Sam Harper, Erin C Strumpf, and Jay S Kaufman. Do Medical Marijuana Laws Increase Marijuana Use? Replication Study and Extension. Annals of Epidemiology. 2012;22(4):207–212. [DOI](https://doi.org/10.1016/j.annepidem.2011.12.002)
-  - Replicate Table 1 and Table 2
-  - Data: [Download (Filename: mml_data.csv)](#)
-
-You must submit the code you used to get the tables and a clean version of the tables.
+## Intervention Design
+**Type:** Written work
+**Description:** In this assignment you will design an intervention. The intervention will include designing how the intervention will roll out, a logic model, process and outcome targets, equity considerations, and population health considerations. 
 
 ## Term Paper – Part 1
 **Type:** Protocol Paper  
